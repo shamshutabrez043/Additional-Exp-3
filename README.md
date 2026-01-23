@@ -1,4 +1,4 @@
-# Expt-1a
+# Additional-Exp-3
 ```java
 import java.util.Scanner;
 
