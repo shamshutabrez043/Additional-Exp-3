@@ -23,5 +23,5 @@ class Palindrome {
 }
 
 ```
-#output:
+# output:
 ![output of primitive](addi3.png)
